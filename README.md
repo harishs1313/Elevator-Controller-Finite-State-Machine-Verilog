@@ -122,10 +122,3 @@ GitHub: [@yourusername](https://github.com/yourusername)
 ## 📄 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
-
-```
-
----
-
-Let me know if you want a PDF version of this README or want to generate one for your previous projects (like Traffic Light or MiniCPU).
-```
